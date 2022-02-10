@@ -1,0 +1,16 @@
+{
+  "name": "firebase-setup",
+  "version": "1.0.0",
+  "description": "### NPM Packages to insall - installing firebase - install parcel",
+  "scripts": {
+    "start": "parcel",
+    "parcel": "parcel build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^9.6.6",
+    "parcel": "^2.3.0"
+  }
+}
